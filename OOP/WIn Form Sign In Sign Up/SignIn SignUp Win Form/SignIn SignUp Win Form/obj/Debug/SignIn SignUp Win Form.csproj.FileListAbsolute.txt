@@ -1,0 +1,54 @@
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn SignUp Win Form.csproj.AssemblyReference.cache
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.Form1.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.Properties.Resources.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn SignUp Win Form.csproj.GenerateResource.cache
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn SignUp Win Form.csproj.CoreCompileInputs.cache
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\bin\Debug\SignIn SignUp Win Form.exe.config
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\bin\Debug\SignIn SignUp Win Form.exe
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\bin\Debug\SignIn SignUp Win Form.pdb
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn SignUp Win Form.exe
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn SignUp Win Form.pdb
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.MenuForm.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.SignInForm.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.AdminForm.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.AddEmployeeForm.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.ViewAllEmployee.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.ViewAllCustomer.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.EmployeeMenu.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.AddCustomer.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.EmployeeRemove.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.AdminPersonal.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.Bank.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.BankData.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.CustomerRemove.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.AdminUpdate.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.UpdateBank.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.BankMoney.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.AdminLoan.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.Note.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.employee_Form_romve.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.Employee_UpdateThrooughAdmin.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.EmployeePersonalData.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.UpdateEmployee.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.CustomerMenu.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.CustomerPersonal.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.AtmUpdate.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.CustomerBankDetails.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.CustomerUpdate.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.Atm_Main_Interface.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.AddMoneyInAccount.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.CurrentAccountType.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.LoanFromBank.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.Check_Balance.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.SavingAccountType.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.PIN_AND_ATM.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.TransferAmount.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form._2Transfer_Amount_2.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.PayBills.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.ElectricityBill.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.Gas_Bill.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.PinAndAtmBills.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.WaterBills.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.CurrentCheckBalance.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.SearchCustomerByEmployee.resources
+P:\OOP\WIn Form Sign In Sign Up\SignIn SignUp Win Form\SignIn SignUp Win Form\obj\Debug\SignIn_SignUp_Win_Form.PaidChallan.resources

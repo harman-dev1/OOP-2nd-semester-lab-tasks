@@ -1,0 +1,7 @@
+P:\OOP\OOP Last\OOP Last\bin\Debug\OOP Last.exe.config
+P:\OOP\OOP Last\OOP Last\bin\Debug\OOP Last.exe
+P:\OOP\OOP Last\OOP Last\bin\Debug\OOP Last.pdb
+P:\OOP\OOP Last\OOP Last\obj\Debug\OOP Last.csproj.AssemblyReference.cache
+P:\OOP\OOP Last\OOP Last\obj\Debug\OOP Last.csproj.CoreCompileInputs.cache
+P:\OOP\OOP Last\OOP Last\obj\Debug\OOP Last.exe
+P:\OOP\OOP Last\OOP Last\obj\Debug\OOP Last.pdb

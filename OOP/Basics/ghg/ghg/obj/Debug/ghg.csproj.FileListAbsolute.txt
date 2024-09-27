@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\ghg\ghg\bin\Debug\ghg.exe.config
+C:\Users\USER\source\repos\ghg\ghg\bin\Debug\ghg.exe
+C:\Users\USER\source\repos\ghg\ghg\bin\Debug\ghg.pdb
+C:\Users\USER\source\repos\ghg\ghg\obj\Debug\ghg.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ghg\ghg\obj\Debug\ghg.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ghg\ghg\obj\Debug\ghg.exe
+C:\Users\USER\source\repos\ghg\ghg\obj\Debug\ghg.pdb

@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BMS.BL.User">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAAAAgEAAAABQAABIUAAACEAAAAgAAAAA=</HashCode>
+      <FileName>BL\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BMS.BL.EmployeeBL">
+    <Position X="11" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQACAAEAAgAAAAAAAAABAAAAAAAAAAAAIAAAACAAA=</HashCode>
+      <FileName>BL\EmployeeBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BMS.BL.AdminBL">
+    <Position X="8.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAYEAAkGBAhBAAAAQAAAA=</HashCode>
+      <FileName>BL\AdminBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BMS.BL.CustomerBL">
+    <Position X="2" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAAAJAAAEAAAAAAAAAAAACAAAAAgAAAAABAAAAAQAA=</HashCode>
+      <FileName>BL\CustomerBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BMS.DL.ListsDLUser">
+    <Position X="8.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAAAABUAgAAAAAAAAAAggAAAIIAAAIACIgACAAFAA=</HashCode>
+      <FileName>DL\AdminDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BMS.DL.CustomerDL">
+    <Position X="5.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCBgACABQiADQAAgAApBQBBAAAZEAAgRBABhCAwAEgA=</HashCode>
+      <FileName>DL\CustomerDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BMS.DL.EmployeeDL">
+    <Position X="3.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAJCAAChagATIIAMQAABAAEAACIQAAiCBAAgAAggBgA=</HashCode>
+      <FileName>DL\EmployeeDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form._2Transfer_Amount_2" Collapsed="true">
+    <Position X="4.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABQAAACAAAACAAAwAAAAAjAAAAAAAAA=</HashCode>
+      <FileName>2Transfer Amount 2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.Form1" Collapsed="true">
+    <Position X="4.5" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAQAACAgABAAAECEAAACAAAIAAAAAEQAAQLAAEQ=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.MenuForm" Collapsed="true">
+    <Position X="6.75" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwACIQCACACABIEBASAgAAiETgAAAAAAgACQAAIAAA=</HashCode>
+      <FileName>MenuForm - Copy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.SignInForm" Collapsed="true">
+    <Position X="1.5" Y="19" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAACCQAICACABIAAACAAAAiEAAICAgAAkACQQBAAEA=</HashCode>
+      <FileName>SignInForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.AdminForm" Collapsed="true">
+    <Position X="7.5" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>9wAAAAQAACAAARAAAAGAIAQCAACkAAAAILgHAAAAACI=</HashCode>
+      <FileName>AdminForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.CustomerMenu" Collapsed="true">
+    <Position X="8" Y="21" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAAACAAAEAAAAAAAAAAAAACA=</HashCode>
+      <FileName>CustomerMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.EmployeeMenu" Collapsed="true">
+    <Position X="8" Y="22" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQQACAAABAAAACAAAACAAAAAAAAgAAAAAAAACA=</HashCode>
+      <FileName>EmployeeMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.AddCustomer" Collapsed="true">
+    <Position X="1.25" Y="20.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JFAAAIAQACAgAhAAEAGAAAAGgAAeCAAAgEBBEABgACg=</HashCode>
+      <FileName>AddCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.AddEmployeeForm" Collapsed="true">
+    <Position X="1" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FFAAAIQQACAACBACgQGCAAAWgAAcCAAAgGBAGABAACA=</HashCode>
+      <FileName>AddEmployeeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.AddMoneyInAccount" Collapsed="true">
+    <Position X="4.25" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAgBQAAAiAAAACAAAYAAAEAGAAAAAAAAA=</HashCode>
+      <FileName>AddMoneyInAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.AdminLoan" Collapsed="true">
+    <Position X="0.75" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACAAABAAAACAAAACAAIIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>AdminLoan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.AdminPersonal" Collapsed="true">
+    <Position X="0.75" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASgAABAAAACAAAQCAAgQAAACEGAAAAAAAAA=</HashCode>
+      <FileName>AdminPersonal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.AdminUpdate" Collapsed="true">
+    <Position X="4.5" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBAABAAAACAAABAAAADAAAACAQAIAAAEAEAACABAAAg=</HashCode>
+      <FileName>AdminUpdate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.Atm_Main_Interface" Collapsed="true">
+    <Position X="8" Y="23" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Atm Main Interface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.AtmUpdate" Collapsed="true">
+    <Position X="4.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAABAAAASAAAACAAQxAIAAAjAAAAAAAAA=</HashCode>
+      <FileName>AtmUpdate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.Bank" Collapsed="true">
+    <Position X="8" Y="24" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAABIAAACAAAASAAAZAAAAAGAAAADAAAI=</HashCode>
+      <FileName>Bank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.BankData" Collapsed="true">
+    <Position X="4.25" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAQAACAAAFAAAACAAACCAEggACIAADBAAAAAAAA=</HashCode>
+      <FileName>BankData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.BankMoney" Collapsed="true">
+    <Position X="0.5" Y="24.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAIIAAAAAEAAAAAAAQA=</HashCode>
+      <FileName>BankMoney.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.Check_Balance" Collapsed="true">
+    <Position X="7.75" Y="25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACACABAAAACAAAACAAAJAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Check Balance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.CurrentAccountType" Collapsed="true">
+    <Position X="4.25" Y="25.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAMA4AAAAAHAMAAAAAAA=</HashCode>
+      <FileName>CurrentAccountType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.CurrentCheckBalance" Collapsed="true">
+    <Position X="0.5" Y="25.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAQCAAAACAAAJAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>CurrentCheckBalance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.CustomerBankDetails" Collapsed="true">
+    <Position X="6.25" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAACAAABAAAACAAACCAEgIAGAAAFAAAAAAAAA=</HashCode>
+      <FileName>CustomerBankDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.CustomerPersonal" Collapsed="true">
+    <Position X="6.25" Y="22" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAIAgACAAABAAAACAAASCABhIAAADAECAAAAAAAA=</HashCode>
+      <FileName>CustomerPersonal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.CustomerRemove" Collapsed="true">
+    <Position X="2.75" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQBACAAAAAAAACABAACAAggAAAAAAAAAABAAAA=</HashCode>
+      <FileName>CustomerRemove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.CustomerUpdate" Collapsed="true">
+    <Position X="2.75" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BFAAAAAAQCAAABAAAADAAAACAAAYAAAEAGAACABAAAA=</HashCode>
+      <FileName>CustomerUpdate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.ElectricityBill" Collapsed="true">
+    <Position X="2.25" Y="24.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgCAAABAAAACAAAAKAAAYAAABAGAAAAAAAAA=</HashCode>
+      <FileName>ElectricityBill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.employee_Form_romve" Collapsed="true">
+    <Position X="10" Y="24.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>employee_Form_romve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.Employee_UpdateThrooughAdmin" Collapsed="true">
+    <Position X="10" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EkAAAgAAACBEIBACAACAAACCAAkYAAAgEGAAgACAAAI=</HashCode>
+      <FileName>Employee_UpdateThrooughAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.EmployeePersonalData" Collapsed="true">
+    <Position X="6" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAACAAABAAAACAAAQCABhMAgADAEgAAAAAAAA=</HashCode>
+      <FileName>EmployeePersonalData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.EmployeeRemove" Collapsed="true">
+    <Position X="10" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEgACAQBAiAAABCAAACAAARTQAggABAABEAAAAAAACA=</HashCode>
+      <FileName>EmployeeRemove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.Gas_Bill" Collapsed="true">
+    <Position X="2.5" Y="25.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgCAAABAAAECAAAAKAAAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>Gas Bill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.LoanFromBank" Collapsed="true">
+    <Position X="6" Y="25.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAABQAAAiAAAACAAQYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>LoanFromBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.Note" Collapsed="true">
+    <Position X="8.25" Y="25.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Note.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.PaidChallan" Collapsed="true">
+    <Position X="11.5" Y="25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAIAAAAAEAAAAAAACA=</HashCode>
+      <FileName>PaidChallan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.PayBills" Collapsed="true">
+    <Position X="8.5" Y="26.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAEA4AAAAAHAIAAAAAAA=</HashCode>
+      <FileName>PayBills.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.PIN_AND_ATM" Collapsed="true">
+    <Position X="4.5" Y="26.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAACAAABAAAACAAAACAAAZAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>PIN AND ATM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.PinAndAtmBills" Collapsed="true">
+    <Position X="6.25" Y="26.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAACAAABAAAACAAAACAAAZAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>PinAndAtmBills.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.SavingAccountType" Collapsed="true">
+    <Position X="10.5" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAAACAEA4AAAAAHAIAAAAAAA=</HashCode>
+      <FileName>SavingAccountType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.SearchCustomerByEmployee" Collapsed="true">
+    <Position X="12.5" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAYRACAAACAAAACAAAACAAgAAAQABCAAAAgAEAA=</HashCode>
+      <FileName>SearchCustomerByEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.TransferAmount" Collapsed="true">
+    <Position X="1.25" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAQAACAAAASAAAoAAAIAHAAAAAAAAA=</HashCode>
+      <FileName>TransferAmount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.UpdateBank" Collapsed="true">
+    <Position X="2" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBAAAAAAACAAABAAAACAAIASAQAJAAAAEEIAAABIAAg=</HashCode>
+      <FileName>UpdateBank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.UpdateEmployee" Collapsed="true">
+    <Position X="5.75" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EkAAQkAAACAEIBAAAACAAACCAAEYAAAAAGAAgACAAAA=</HashCode>
+      <FileName>UpdateEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.ViewAllCustomer" Collapsed="true">
+    <Position X="8" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAYQACAAASAAAECAAAACAAggAAQABSAAAAAAEAg=</HashCode>
+      <FileName>ViewAllCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.ViewAllEmployee" Collapsed="true">
+    <Position X="4" Y="28" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAYRAiAAADAAAACAAAACAAgkiAQABCAAAAAgACA=</HashCode>
+      <FileName>ViewAllEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SignIn_SignUp_Win_Form.WaterBills" Collapsed="true">
+    <Position X="0.5" Y="28.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAwCAAABAAAACAAAAKAAAYAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>WaterBills.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

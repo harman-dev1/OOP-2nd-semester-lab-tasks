@@ -1,0 +1,10 @@
+P:\OOP\Game Pacman\PACMAN\PACMAN\bin\Debug\PACMAN.exe.config
+P:\OOP\Game Pacman\PACMAN\PACMAN\bin\Debug\PACMAN.exe
+P:\OOP\Game Pacman\PACMAN\PACMAN\bin\Debug\PACMAN.pdb
+P:\OOP\Game Pacman\PACMAN\PACMAN\bin\Debug\EZInput.dll
+P:\OOP\Game Pacman\PACMAN\PACMAN\bin\Debug\EZInput.xml
+P:\OOP\Game Pacman\PACMAN\PACMAN\obj\Debug\PACMAN.csproj.AssemblyReference.cache
+P:\OOP\Game Pacman\PACMAN\PACMAN\obj\Debug\PACMAN.csproj.CoreCompileInputs.cache
+P:\OOP\Game Pacman\PACMAN\PACMAN\obj\Debug\PACMAN.csproj.CopyComplete
+P:\OOP\Game Pacman\PACMAN\PACMAN\obj\Debug\PACMAN.exe
+P:\OOP\Game Pacman\PACMAN\PACMAN\obj\Debug\PACMAN.pdb

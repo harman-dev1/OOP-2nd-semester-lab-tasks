@@ -1,0 +1,7 @@
+P:\Week 2 lab\Week 2 lab\bin\Debug\Week 2 lab.exe.config
+P:\Week 2 lab\Week 2 lab\bin\Debug\Week 2 lab.exe
+P:\Week 2 lab\Week 2 lab\bin\Debug\Week 2 lab.pdb
+P:\Week 2 lab\Week 2 lab\obj\Debug\Week 2 lab.csproj.AssemblyReference.cache
+P:\Week 2 lab\Week 2 lab\obj\Debug\Week 2 lab.csproj.CoreCompileInputs.cache
+P:\Week 2 lab\Week 2 lab\obj\Debug\Week 2 lab.exe
+P:\Week 2 lab\Week 2 lab\obj\Debug\Week 2 lab.pdb

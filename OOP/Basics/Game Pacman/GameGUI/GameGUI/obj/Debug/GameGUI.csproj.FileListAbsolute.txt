@@ -1,0 +1,10 @@
+P:\OOP\Game Pacman\GameGUI\GameGUI\bin\Debug\GameGUI.exe.config
+P:\OOP\Game Pacman\GameGUI\GameGUI\bin\Debug\GameGUI.exe
+P:\OOP\Game Pacman\GameGUI\GameGUI\bin\Debug\GameGUI.pdb
+P:\OOP\Game Pacman\GameGUI\GameGUI\obj\Debug\GameGUI.csproj.AssemblyReference.cache
+P:\OOP\Game Pacman\GameGUI\GameGUI\obj\Debug\GameGUI.Form1.resources
+P:\OOP\Game Pacman\GameGUI\GameGUI\obj\Debug\GameGUI.Properties.Resources.resources
+P:\OOP\Game Pacman\GameGUI\GameGUI\obj\Debug\GameGUI.csproj.GenerateResource.cache
+P:\OOP\Game Pacman\GameGUI\GameGUI\obj\Debug\GameGUI.csproj.CoreCompileInputs.cache
+P:\OOP\Game Pacman\GameGUI\GameGUI\obj\Debug\GameGUI.exe
+P:\OOP\Game Pacman\GameGUI\GameGUI\obj\Debug\GameGUI.pdb

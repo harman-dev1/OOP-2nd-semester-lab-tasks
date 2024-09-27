@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\Area Of Saqure\Area Of Saqure\bin\Debug\Area Of Saqure.exe.config
+C:\Users\USER\source\repos\Area Of Saqure\Area Of Saqure\bin\Debug\Area Of Saqure.exe
+C:\Users\USER\source\repos\Area Of Saqure\Area Of Saqure\bin\Debug\Area Of Saqure.pdb
+C:\Users\USER\source\repos\Area Of Saqure\Area Of Saqure\obj\Debug\Area Of Saqure.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Area Of Saqure\Area Of Saqure\obj\Debug\Area Of Saqure.exe
+C:\Users\USER\source\repos\Area Of Saqure\Area Of Saqure\obj\Debug\Area Of Saqure.pdb

@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Class with main\Class with main\bin\Debug\Class with main.exe.config
+C:\Users\USER\source\repos\Class with main\Class with main\bin\Debug\Class with main.exe
+C:\Users\USER\source\repos\Class with main\Class with main\bin\Debug\Class with main.pdb
+C:\Users\USER\source\repos\Class with main\Class with main\obj\Debug\Class with main.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Class with main\Class with main\obj\Debug\Class with main.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Class with main\Class with main\obj\Debug\Class with main.exe
+C:\Users\USER\source\repos\Class with main\Class with main\obj\Debug\Class with main.pdb
